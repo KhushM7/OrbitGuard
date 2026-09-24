@@ -16,3 +16,7 @@ progress.md
 
 backend/orbitguard.db-shm
 backend/orbitguard.db-wal
+
+.next-local/
+.idea/
+backend/orbitguard.db
